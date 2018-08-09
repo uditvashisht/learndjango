@@ -1,4 +1,6 @@
 # Created by https://www.gitignore.io
+learndjango.sublime-project
+learndjango.sublime-workspace
 bin/
 include/
 lib/
